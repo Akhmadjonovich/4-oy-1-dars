@@ -1,9 +1,6 @@
 //if3, if4, if5, if9, if11, if17, if18, case8, case9, case12 larni bajaring
 
-
-
-
-        // UYGA VAZIFA 
+// UYGA VAZIFA 
        
 //if3, if4, if5, if9, if11, if17, if18, case8, case9, case12 larni bajaring
 
